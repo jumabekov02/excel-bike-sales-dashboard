@@ -84,7 +84,6 @@ The dataset includes customer-level information such as:
   * Pivot Tables
   * Charts
   * Slicers
-  * Dashboard design
 
 ---
 
